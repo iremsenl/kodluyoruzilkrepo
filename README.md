@@ -1,1 +1,3 @@
-# kodluyoruzilrepo
+# kodluyoruzilkrepo
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![projenin içindekiler](https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2E0ZGZiZTE1ZmFiZjQ5MWJiNTk5NzE4ZGRmMzc4ZWQ2X0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9kMDhmMTY1MC0xNjY0LTQxNDEtODJkOC05ODEzNDdhYWJiMDE=)
